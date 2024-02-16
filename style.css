@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.value {
+    font-size: 6rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    background-color: azure;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+    padding: 20px;
+
+}
